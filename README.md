@@ -57,7 +57,9 @@ Fixed after a second round of browser testing:
 - Pricing dialog copy said changes apply instantly; they apply when saved.
 - Added a meta description and favicon so a shared link looks finished.
 
-All scenarios in the table above were re-run in Chromium after these changes (desktop and 375px mobile), plus CSV export, pricing edit/validation/reset, and the print layout. `preview-mobile.png` shows the current version. The old desktop screenshot was removed because it showed the previous brand; capture a new 1440-wide `preview-desktop.png` after deployment.
+All scenarios in the table above were re-run in Chromium after these changes (desktop and 375px mobile), plus CSV export, pricing edit/validation/reset, and the print layout. `preview-mobile.png` and `preview-desktop.png` show the current version.
+
+Live demo: https://acxxmz.github.io/renovation-estimate-demo/
 
 ## Deploy
 
